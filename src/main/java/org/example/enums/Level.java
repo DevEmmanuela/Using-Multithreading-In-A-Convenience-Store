@@ -1,0 +1,5 @@
+package org.example.enums;
+
+public enum Level {
+    JUNIORSTAFF, SUPERVISORYSTAFF, MANAGEMENTSTAFF, ADMINISTRATIVESTAFF
+}
